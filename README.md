@@ -35,4 +35,5 @@ Performance Results
 Accuracy= 99.3%
 
 ## Demo:
-![Screenshot (81)](https://github.com/ajinkyamhetre81/CROP_RECOMMENDATION_SYSTEM/assets/114176664/d408e03a-9ec8-40bd-a562-95939e371427)
+![Screenshot (104)](https://github.com/ajinkyamhetre81/Crop_Recommentation_System/assets/114176664/6f3c5b63-a3ba-4d54-a664-62a93a67ea63)
+
